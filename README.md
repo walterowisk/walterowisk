@@ -1,8 +1,16 @@
-## Fala aí galera!🤙🏼
+## Fala aí galera, Walter aqui 🤙🏼
 
-##### Vou usar esse espaço para publicar meus estudos principalmente de Dev Front-end.
+Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho querendo fazer transição de carreira para a área de desenvolvimento focado em Front-end.
 
-##
+<aside>
+💡 ***Vou usar esse espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.***
+
+</aside>
+
+### Bora codar!! 👨🏽‍💻
+
+---
+
 
 <div style="display: inline_block>
   <a href="https://github.com/walterowisk">
