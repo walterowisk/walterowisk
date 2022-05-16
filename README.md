@@ -11,6 +11,8 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=9573BF&style=flat" alt="walterowisk" /> </p>
+
 
 <div style="display: inline_block>
   <a href="https://github.com/walterowisk">
