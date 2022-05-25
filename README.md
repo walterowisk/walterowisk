@@ -16,8 +16,8 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
 
 <div style="display: inline_block>
   <a href="https://github.com/walterowisk">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=walterowisk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterowisk&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=walterowisk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterowisk&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
