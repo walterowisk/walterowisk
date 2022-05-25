@@ -36,3 +36,7 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
   ![Snake animation](https://github.com/walterowisk/walterowisk/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+                   
+<div align="center">
+     <img src="https://github.com/IcaroSilvaFK/IcaroSilvaFK/blob/output/github-contribution-grid-snake.svg" />
+</div>
