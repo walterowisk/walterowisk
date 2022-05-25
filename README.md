@@ -38,5 +38,5 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
 </div>
                    
 <div align="center">
-     <img src="https://github.com/IcaroSilvaFK/IcaroSilvaFK/blob/output/github-contribution-grid-snake.svg" />
+     <img src="https://github.com/walterowisk/walterowisk/blob/output/github-contribution-grid-snake.svg" />
 </div>
