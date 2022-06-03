@@ -11,6 +11,12 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
 
 ---
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/walterowisk/walterowisk/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=9573BF&style=flat" alt="walterowisk" /> </p>
 
 
@@ -22,6 +28,7 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
 
 ##
   
+  
 ## Stack 🔧🔋
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -31,12 +38,10 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
   
  ##
   
-<div align="center">
-  
-  ![Snake animation](https://github.com/walterowisk/walterowisk/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-                   
+
+
+<!--
 <div align="center">
      <img src="https://github.com/walterowisk/walterowisk/blob/output/github-contribution-grid-snake.svg" />
 </div>
+-->
