@@ -29,7 +29,7 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
 ##
   
   
-## Stack 🔧🔋
+## My Stack 🔧🔋
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
