@@ -26,8 +26,7 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterowisk&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
-  
+## 
   
 ## My Stack 🔧🔋
 
