@@ -2,12 +2,10 @@
 
 Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho querendo fazer transição de carreira para a área de desenvolvimento focado em Front-end.
 
-<aside>
-💡 ***Vou usar esse espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.***
 
-</aside>
+:bulb: `Vou usar esse espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.`
 
-### Bora codar!! 👨🏽‍💻
+### Bora codar!! 👨🏽‍💻 :beer:
 
 ---
 
@@ -17,10 +15,10 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
   
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=9573BF&style=flat" alt="walterowisk" /> </p>
+<p class="Profile Views Badge" align="center"> <img src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=9573BF&style=flat" alt="walterowisk" /> </p>
 
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/walterowisk">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=walterowisk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterowisk&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -36,6 +34,12 @@ Trabalho há mais de 10 anos como Analista de TI mas já faz um tempo que venho 
  
   
  ##
+ 
+<div align="center" style="display: inline_block">
+  <a href="https://git.io/streak-stats">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=walterowisk&theme=tokyonight"/>
+</div>
+  
   
 
 
