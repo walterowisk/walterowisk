@@ -1,9 +1,13 @@
 
 ## [~] $ whoami
 
+<samp>
 Meu nome é Walter e trabalho há mais de 12 anos como Analista de TI onde já desenpenhei diversas funções ligadas a administração de infraestrutura on-premise.
 Há algum tempo venho estudando para fazer transição de carreira mas sem sair da mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end e mais recentemente me encantei por Cloud/DevOps.
 Pretendo conciliar novos aprendizados nas áreas citadas para em breve entrar em um desses mercados.
+</samp>
+
+---
 
 :bulb: `Vou usar esse espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.`
 
