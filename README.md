@@ -1,9 +1,9 @@
 
-## [~] $ whoami
+# [~] $ whoami
 
 <samp>
-Meu nome é Walter e trabalho há mais de 12 anos como Analista de TI onde já desenpenhei diversas funções ligadas a administração de infraestrutura on-premise.
-Há algum tempo venho estudando para fazer transição de carreira mas sem sair da mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end e mais recentemente me encantei por Cloud/DevOps.
+Meu nome é Walter e trabalho há mais de 12 anos como Analista de TI onde já desenpenhei diversas funções ligadas a administração de infraestrutura on-premise.<br>
+Há algum tempo venho estudando para fazer transição de carreira mas sem sair da mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end e mais recentemente me encantei por Cloud/DevOps.<br>
 Pretendo conciliar novos aprendizados nas áreas citadas para em breve entrar em um desses mercados.
 </samp>
 
@@ -23,7 +23,7 @@ Pretendo conciliar novos aprendizados nas áreas citadas para em breve entrar em
 <p class="Profile Views Badge" align="center"> <img src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge" alt="walterowisk" /> 
 </p>
 
-##  :bar_chart::octocat: Github Stats
+##  :bar_chart: Github Stats :octocat:
 <div align="center" style="display: inline_block">
   <a href="https://github.com/walterowisk">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=walterowisk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
