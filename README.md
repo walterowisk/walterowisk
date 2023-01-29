@@ -32,7 +32,7 @@ Pretendo conciliar novos aprendizados nas áreas citadas para em breve entrar em
 
 <div align="center" style="display: inline_block">
   <a href="https://git.io/streak-stats">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=walterowisk&theme=tokyonight"/>
+  <img height="320em" src="https://github-readme-streak-stats.herokuapp.com?user=walterowisk&theme=tokyonight"/>
 </div>
 
 ## 
