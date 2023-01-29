@@ -1,5 +1,5 @@
 
-# [~] $ whoami
+# <samp>[~] $ whoami</samp>
 
 <samp>
 Meu nome é Walter e trabalho há mais de 12 anos como Analista de TI onde já desenpenhei diversas funções ligadas a administração de infraestrutura on-premise.<br>
