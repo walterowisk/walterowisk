@@ -6,7 +6,7 @@ Meu nome é Walter e trabalho há mais de 12 anos como Analista de TI onde já d
 
 Há algum tempo venho estudando para fazer transição de carreira mas sem sair da mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end e mais recentemente me encantei por Cloud/DevOps.<br>
 
-Pretendo conciliar novos aprendizados nessas áreas para em breve migrar de carreira.
+Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
 
 </samp>
 
