@@ -15,7 +15,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ---
 
 
-:bulb: `Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.`
+:rocket: `Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.`
 
  
 
