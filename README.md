@@ -2,7 +2,7 @@
 
 <samp>
 
-Meu nome é Walter e trabalho há mais de 12 anos como Analista de TI onde já desenpenhei diversas funções ligadas a administração de infraestrutura on-premise.<br>
+Meu nome é Walter e trabalho há mais de 12 anos como Analista de TI onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise.<br>
 
 Há algum tempo venho estudando para fazer transição de carreira mas sem sair da mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end e mais recentemente me encantei por Cloud/DevOps.<br>
 
