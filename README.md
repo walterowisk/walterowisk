@@ -62,11 +62,11 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
+![MARKDOWN](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)&nbsp;
 ![VCSODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
 ![GITKRAKEN](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white)&nbsp;
 ![GITHUB](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
-![MARKDOWN](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)&nbsp;
 ![HYPER](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Hyper&logoColor=white)&nbsp;
 ![GNOME TERMINAL](https://img.shields.io/badge/GNOME%20Terminal-241F31.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
