@@ -10,28 +10,20 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 </samp>
 
-
-
 ---
-
 
 :rocket: `Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.`
 
- 
-
 ---
 
-
 <div  class="snake"  align="center">
-
-  
 
 ![Snake animation](https://github.com/walterowisk/walterowisk/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 <p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
 </p>
-  
+
 
 ## :bar_chart: Github Stats :octocat:
 
@@ -77,6 +69,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![NOTION](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
+![GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)&nbsp;
 ![POP_OS!](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white)&nbsp;
 
 ## :phone: Get in touch
