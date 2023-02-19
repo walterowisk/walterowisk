@@ -4,7 +4,7 @@
 
 Meu nome é Walter e trabalho há mais de 12 anos como Analista de TI onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise.<br>
 
-Há algum tempo venho estudando para fazer transição de carreira mas sem sair da mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end e mais recentemente me encantei por Cloud/DevOps.<br>
+Há algum tempo venho estudando para fazer transição de carreira mas sem sair do mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end e mais recentemente me encantei por Cloud/DevOps.<br>
 
 Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
 
@@ -87,3 +87,5 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ---
 
 > Caso queira copiar a estrutura do meu `README` fique a vontade. Só peço que deixe uma :star: no repositório :wink:
+
+---
