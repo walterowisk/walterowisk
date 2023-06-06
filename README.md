@@ -81,7 +81,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=walterowisk&bg_color=1a1b27&color=be91f2&line=628fdb&point=57bdad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=walterowisk&bg_color=1a1b27&color=be91f2&line=628fdb&point=57bdad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github-readme-activity-graph.vercel.app/graph)
 
   
 
@@ -118,6 +118,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![ASTRO](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)&nbsp;
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 ![NOTION](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;
+![AIRTABLE](https://img.shields.io/badge/Airtable-18BFFF.svg?style=for-the-badge&logo=Airtable&logoColor=white)&nbsp;
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
 ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white)&nbsp;
