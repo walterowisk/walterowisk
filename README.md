@@ -2,11 +2,11 @@
 # <samp>[~] $ whoami</samp>
 
   
-<div  align="center"  style="display: flex">
-
-<samp>
-
-Meu nome é Walter e trabalho há mais de 15 anos como Analista de TI onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk a cliente final.<br>
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <samp style="font-family: monospace;">Meu nome é Walter e trabalho há mais de 15 anos como Analista de TI onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk a cliente final.<br>
 
   
 
@@ -15,12 +15,13 @@ Há algum tempo venho estudando para fazer transição de carreira mas sem sair 
   
 
 Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
-
 </samp>
-
-<a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="260" alt="Walter J. Silva's Dev Card"/></a>
-
-</div>
+<span style="margin-left: 8px;"></span>
+          <a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="260" alt="Walter J. Silva's Dev Card"/></a>
+        </div>
+      </td>
+    </tr>
+  </table>
 
   
 
