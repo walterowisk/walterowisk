@@ -18,7 +18,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 </samp>
 
-<a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="280" alt="Walter J. Silva's Dev Card"/></a>
+<a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="260" alt="Walter J. Silva's Dev Card"/></a>
 
 </div>
 
