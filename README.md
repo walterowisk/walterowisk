@@ -2,22 +2,20 @@
 # <samp>[~] $ whoami</samp>
 
   
-  <table style="width: 100%;">
-    <tr>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <samp style="font-family: monospace;">Meu nome é Walter e trabalho há mais de 15 anos como Analista de TI onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk a cliente final.<br>
+<table style="width: 100%;">
+<tr>
+     <td>
+       <div style="display: flex; align-items: center;">
+          <samp style="font-family: monospace;">
+          
+Meu nome é Walter e trabalho há mais de 15 anos como Analista de TI onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk a cliente final.<br><br>
 
-  
-
-Há algum tempo venho estudando para fazer transição de carreira mas sem sair do mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end, em 2022 me encantei por Cloud/DevOps e mais recentemente venho estudando Python e SQL aplicados à data science.<br>
-
-  
+Há algum tempo venho estudando para fazer transição de carreira mas sem sair do mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end, em 2022 me encantei por Cloud/DevOps e mais recentemente venho estudando Python e SQL aplicados à data science.<br><br>
 
 Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
 </samp>
 <span style="margin-left: 4px;"></span>
-          <a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="240" alt="Walter J. Silva's Dev Card"/></a>
+        <a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="240" alt="Walter J. Silva's Dev Card"/></a>
         </div>
       </td>
     </tr>
