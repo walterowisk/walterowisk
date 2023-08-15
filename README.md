@@ -2,7 +2,7 @@
 # <samp>[~] $ whoami</samp>
 
   
-  <table style="border-collapse: collapse; width: 100%;">
+  <table style="width: 100%;">
     <tr>
       <td>
         <div style="display: flex; align-items: center;">
@@ -16,8 +16,8 @@ Há algum tempo venho estudando para fazer transição de carreira mas sem sair 
 
 Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
 </samp>
-<span style="margin-left: 8px;"></span>
-          <a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="260" alt="Walter J. Silva's Dev Card"/></a>
+<span style="margin-left: 4px;"></span>
+          <a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="240" alt="Walter J. Silva's Dev Card"/></a>
         </div>
       </td>
     </tr>
