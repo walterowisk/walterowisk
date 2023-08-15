@@ -2,7 +2,7 @@
 # <samp>[~] $ whoami</samp>
 
   
-<div  align="center"  style="display: flex">
+<div  align-itens="center"  style="display: flex">
 
 <samp>
 
