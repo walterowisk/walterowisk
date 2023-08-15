@@ -2,7 +2,7 @@
 # <samp>[~] $ whoami</samp>
 
   
-
+<div  align="center"  style="display: inline_block">
 <samp>
 
   
@@ -20,6 +20,10 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
   
 
 </samp>
+
+<a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="400" alt="Walter J. Silva's Dev Card"/></a>
+
+</div>
 
   
 
