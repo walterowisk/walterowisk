@@ -44,7 +44,8 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 </div>
 
-<p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
+<p  class="Profile Views Badge"  align="center"> 
+<img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
 
 </p>
 
@@ -70,7 +71,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 <a  href="https://git.io/streak-stats">
 
-<img  height="220em"  src="https://streak-stats.demolab.com/?user=walterowisk&theme=tokyonight&hide_border=true&border_radius="/>
+<img src="https://streak-stats.demolab.com/?user=walterowisk&theme=tokyonight&hide_border=true&border_radius="/>
 
 </div>
 
