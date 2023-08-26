@@ -46,7 +46,14 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 <p  class="Profile Views Badge"  align="center"> 
 <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=70A5FD&style=for-the-badge"  alt="walterowisk" />
 </p>
- 
+
+<div>
+  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=walterowisk&bg_color=1a1b27&color=be91f2&line=628fdb&point=57bdad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+</div>
 
 <div  align="center"  style="display: inline_block">
 
@@ -67,22 +74,6 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 <img height="220em" src="https://streak-stats.demolab.com/?user=walterowisk&theme=tokyonight&hide_border=true&border_radius="/>
 
 </div>
-
-  
-
-<div>
-
-  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=walterowisk&bg_color=1a1b27&color=be91f2&line=628fdb&point=57bdad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  
-
-</div>
-
-  
-
----
 
   
 
