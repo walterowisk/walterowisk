@@ -32,11 +32,13 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 ---
 
+<div  class="snake"  align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walterowisk/walterowisk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walterowisk/walterowisk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/walterowisk/walterowisk/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 <p  class="Profile Views Badge"  align="center"> 
 <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
