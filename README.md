@@ -2,24 +2,19 @@
 # <samp>[~] $ whoami</samp>
 
   
-<table style="width: 100%;">
-    <tr>
-        <td>
-            <div style="display: flex; align-items: center;">
-                <samp style="font-family: monospace;">Meu nome é Walter e trabalho há mais de 15 anos como Analista de TI onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk a cliente final.<br><br>
+<samp style="font-family: monospace;">
+Meu nome é Walter e trabalho há mais de 15 anos como Analista de TI onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk a cliente final.<br>
 
-Há algum tempo venho estudando para fazer transição de carreira mas sem sair do mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end, em 2022 me encantei por Cloud/DevOps e mais recentemente venho estudando Python e SQL aplicados à data science.<br><br>
+Há algum tempo venho estudando para fazer transição de carreira mas sem sair do mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end, em 2022 me encantei por Cloud/DevOps e mais recentemente venho estudando Python e SQL aplicados à data science.<br>
 
 Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
 </samp>
-                <span style="margin-left: 8px;"></span>
-                <a
-                    href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=ou9" width="260" alt="Walter J. Silva's Dev Card"/></a>
-            </div>
-        </td>
-    </tr>
-</table>
 
+## :hash: Daily.dev Card
+<div align="center" >
+<a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=tz2" width="280" alt="Walter J. Silva's Dev Card"/></a>
+</div>
+            
   
 
 ---
@@ -42,7 +37,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
   
 
-## :bar_chart: Github Stats :octocat:
+## :bar_chart: Github Stats
 <p  class="Profile Views Badge"  align="center"> 
 <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=70A5FD&style=for-the-badge"  alt="walterowisk" />
 </p>
