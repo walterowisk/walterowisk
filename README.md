@@ -3,25 +3,24 @@
 
   
 <samp>
-Meu nome é Walter e trabalho há mais de 15 anos como Analista de Suporte em T.I. onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk.<br>
-
-Há algum tempo venho estudando para fazer transição de carreira mas sem sair do mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end, em 2022 me encantei por Cloud/DevOps e mais recentemente venho estudando Python e SQL aplicados à data science.<br>
-
+Meu nome é Walter e trabalho há mais de 15 anos como Analista de Suporte em T.I. onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk.
+<br><br>
+Há algum tempo venho estudando para fazer transição de carreira mas sem sair do mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end, em 2022 me encantei por Cloud/DevOps e mais recentemente venho estudando Python e SQL aplicados à data science.
+<br><br>
 Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
 </samp>
 
 ## :hash: Daily.dev Card
 <div align="center" >
 <a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=tz2" width="280" alt="Walter J. Silva's Dev Card"/></a>
-</div>
-            
+</div>       
   
-  
+<br>
 
 > [!IMPORTANT]
 > Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.
 
-
+<br>
 
 <div  class="snake"  align="center">
 <picture>
