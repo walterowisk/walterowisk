@@ -21,7 +21,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
   
 
-:rocket: `Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.`
+`:rocket: Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.`
 
   
 
@@ -106,7 +106,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
   
 
-## :phone: Get in touch
+## :telephone: Get in touch
  
 <div>
 
