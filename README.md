@@ -3,7 +3,7 @@
 
   
 <samp>
-Meu nome é Walter e trabalho há mais de 15 anos como Analista de TI onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk a cliente final.<br>
+Meu nome é Walter e trabalho há mais de 15 anos como Analista de Suporte em T.I. onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk.<br>
 
 Há algum tempo venho estudando para fazer transição de carreira mas sem sair do mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end, em 2022 me encantei por Cloud/DevOps e mais recentemente venho estudando Python e SQL aplicados à data science.<br>
 
@@ -16,16 +16,12 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 </div>
             
   
-
----
-
   
 
-`:rocket: Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.`
+> [!IMPORTANT]
+> Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.
 
-  
 
----
 
 <div  class="snake"  align="center">
 <picture>
