@@ -116,3 +116,8 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 > [!NOTE]
 > Caso queira copiar a estrutura do meu `README` fique a vontade. Só peço que deixe uma :star: no repositório :wink:
+
+<br>
+
+> [!NOTE]
+> If you want to copy the structure of my `README`, feel free. I only ask that you leave a :star: in the repository :wink:
