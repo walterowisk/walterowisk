@@ -121,3 +121,12 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 > [!NOTE]
 > If you want to copy the structure of my `README`, feel free. I only ask that you leave a :star: in the repository :wink:
+
+<br>
+
+<!-- 
+Imagem chupada descaradamente do perfil do Catppuccin no Github 😸
+Image blatantly sucked from Catppuccin's Github 😸 
+-->
+
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
