@@ -70,7 +70,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ## :wrench: Languages && tools:
 
   
-![VCSODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
+![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
 ![GITKRAKEN](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white)&nbsp;
 ![GITHUB](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
@@ -105,7 +105,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
  
 <div>
 
-<a  href  =  "mailto:walter4web@gmail.com"><img  src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"  target="_blank">
+<a  href  =  "mailto:walter.code@proton.me"><img  src="https://img.shields.io/badge/ProtonMail-6D4AFF.svg?style=for-the-badge&logo=ProtonMail&logoColor=white"  target="_blank">
 </a>
 <a  href="https://www.linkedin.com/in/walter-silva"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
 </a>
