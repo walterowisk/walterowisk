@@ -99,7 +99,10 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)&nbsp;
 ![POP_OS!](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white)&nbsp;
 
-  
+
+## :books: Currently studying
+![MICROSOFT365](https://img.shields.io/badge/Microsoft_365-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ## :telephone: Get in touch
  
