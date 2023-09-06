@@ -67,22 +67,28 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
   
 
-## :wrench: Languages && tools:
-
-  
+## :toolbox::hammer_and_wrench:	 Tech Toolbox
+### codeEditor/commandLine
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
-![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
-![GITKRAKEN](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white)&nbsp;
-![GITHUB](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
+![HYPER](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Hyper&logoColor=white)&nbsp;
+![GNOME TERMINAL](https://img.shields.io/badge/GNOME%20Terminal-241F31.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white)&nbsp;
+![WINDOWS TERMINAL](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)&nbsp;
+![POWERSHELL](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white)&nbsp;
+
+### coding
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
+
+  
+
+![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
+![GITKRAKEN](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white)&nbsp;
+![GITHUB](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)&nbsp;
-![HYPER](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Hyper&logoColor=white)&nbsp;
-![GNOME TERMINAL](https://img.shields.io/badge/GNOME%20Terminal-241F31.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white)&nbsp;
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)&nbsp;
 ![CLOUDFLARE PAGES](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=for-the-badge&logo=Cloudflare-Pages&logoColor=white)&nbsp;
 ![PANTHEON](https://img.shields.io/badge/Pantheon-FFDC28.svg?style=for-the-badge&logo=Pantheon&logoColor=black)&nbsp;
