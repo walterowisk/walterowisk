@@ -81,17 +81,22 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
 
-  
-
+### versionControlSystem
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
 ![GITKRAKEN](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white)&nbsp;
-![GITHUB](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
-![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
-![MARKDOWN](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)&nbsp;
+![GITHUB](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp; 
+  
+### deploy
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)&nbsp;
 ![CLOUDFLARE PAGES](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=for-the-badge&logo=Cloudflare-Pages&logoColor=white)&nbsp;
 ![PANTHEON](https://img.shields.io/badge/Pantheon-FFDC28.svg?style=for-the-badge&logo=Pantheon&logoColor=black)&nbsp;
+
+
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
+![MARKDOWN](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)&nbsp;
+
 ![WORDPRESS](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
 ![ELEMENTOR](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white)&nbsp;
 ![ASTRO](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)&nbsp;
@@ -99,7 +104,6 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![NOTION](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;
 ![AIRTABLE](https://img.shields.io/badge/Airtable-18BFFF.svg?style=for-the-badge&logo=Airtable&logoColor=white)&nbsp;
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
 ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
 ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)&nbsp;
