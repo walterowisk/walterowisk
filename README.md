@@ -91,21 +91,16 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 ![CURL](https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&logo=curl&logoColor=white)&nbsp;
 
-### /deploy
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
-![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)&nbsp;
-![CLOUDFLARE PAGES](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=for-the-badge&logo=Cloudflare-Pages&logoColor=white)&nbsp;
-![PANTHEON](https://img.shields.io/badge/Pantheon-FFDC28.svg?style=for-the-badge&logo=Pantheon&logoColor=black)&nbsp;
-
 ### /webDevelopment
 ![WORDPRESS](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
 ![ELEMENTOR](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white)&nbsp;
 ![ASTRO](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)&nbsp;
 
-### /ui-ux
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
-![CANVA](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![PHOTOPEA](https://img.shields.io/badge/Photopea-18A497.svg?style=for-the-badge&logo=Photopea&logoColor=white)&nbsp;
+### /deploy
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
+![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)&nbsp;
+![CLOUDFLARE PAGES](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=for-the-badge&logo=Cloudflare-Pages&logoColor=white)&nbsp;
+![PANTHEON](https://img.shields.io/badge/Pantheon-FFDC28.svg?style=for-the-badge&logo=Pantheon&logoColor=black)&nbsp;
 
 ### /cloud/devOps
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
@@ -116,6 +111,12 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ### /dataScience
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+
+### /ui-ux
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
+![CANVA](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![PHOTOPEA](https://img.shields.io/badge/Photopea-18A497.svg?style=for-the-badge&logo=Photopea&logoColor=white)&nbsp;
+![DRIBBBLE](https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white)&nbsp;
 
 ### /productivity/workflow
 ![AIRTABLE](https://img.shields.io/badge/Airtable-18BFFF.svg?style=for-the-badge&logo=Airtable&logoColor=white)&nbsp;
