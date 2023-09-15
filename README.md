@@ -10,7 +10,7 @@ Há algum tempo venho estudando para fazer transição de carreira mas sem sair 
 Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
 </samp>
 
-# :hash: Daily.dev Card
+# :flower_playing_cards: Daily.dev Card
 <div align="center" >
 <a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=tz2" width="280" alt="Walter J. Silva's Dev Card"/></a>
 </div>       
