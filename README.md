@@ -10,7 +10,7 @@ Há algum tempo venho estudando para fazer transição de carreira mas sem sair 
 Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
 </samp>
 
-## :hash: Daily.dev Card
+# :hash: Daily.dev Card
 <div align="center" >
 <a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=tz2" width="280" alt="Walter J. Silva's Dev Card"/></a>
 </div>       
@@ -32,7 +32,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
   
 
-## :bar_chart: Github Stats
+# :bar_chart: Github Stats
 <p  class="Profile Views Badge"  align="center"> 
 <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=70A5FD&style=for-the-badge"  alt="walterowisk" />
 </p>
@@ -67,7 +67,11 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
   
 
-## :toolbox::hammer_and_wrench:	 Tech Toolbox
+# :toolbox::hammer_and_wrench:	 Tech Toolbox
+
+## :medal_sports: Top everyday tools && resources
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,git,github,aws,wordpress)](https://skillicons.dev)
+
 ### /codeEditor/commandLine
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
 ![HYPER](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Hyper&logoColor=white)&nbsp;
