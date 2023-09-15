@@ -72,6 +72,8 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ## :medal_sports: Top everyday tools && resources
 [![My Skills](https://skillicons.dev/icons?i=vscode,linux,git,github,aws,wordpress)](https://skillicons.dev)
 
+## :card_file_box: Top tools && resources by category
+
 ### /codeEditor/commandLine
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
 ![HYPER](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Hyper&logoColor=white)&nbsp;
