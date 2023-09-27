@@ -141,8 +141,8 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![POP_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white)&nbsp;
 
 ## :books: Currently studying
-![MICROSOFT365](https://img.shields.io/badge/Microsoft_365-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![MICROSOFT365](https://img.shields.io/badge/Microsoft_365-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)&nbsp;
+![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 
 ## :telephone: Get in touch
  
