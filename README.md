@@ -143,6 +143,8 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ## :books: Currently studying
 ![MICROSOFT365](https://img.shields.io/badge/Microsoft_365-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)&nbsp;
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![GITHUB ACTIONS](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)&nbsp;
+
 
 ## :telephone: Get in touch
  
