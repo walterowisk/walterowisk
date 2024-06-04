@@ -49,7 +49,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 <a  href="https://github.com/walterowisk">
 
-<img src="https://github-readme-stats.vercel.app/api?username=walterowisk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius="/>
+<img src="https://github-readme-stats.vercel.app/api?username=walterowisk&show_icons=true&theme=tokyonight&bg_color=0A0C10&include_all_commits=true&count_private=true&hide_border=true&border_radius="/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterowisk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius="/>
 
