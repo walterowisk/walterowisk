@@ -34,7 +34,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 # :bar_chart: Github Stats
 <p  class="Profile Views Badge"  align="center"> 
-<img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=70A5FD&style=for-the-badge"  alt="walterowisk" />
+<img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=BF91F3&style=for-the-badge"  alt="walterowisk" />
 </p>
 
 <div>
