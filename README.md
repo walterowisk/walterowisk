@@ -59,7 +59,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 <div  align="center"  style="display: inline_block">
 
-<a  href="https://git.io/streak-stats">
+<a  href="https://github.com/walterowisk">
 
 <img height="220em" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=walterowisk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0C10"/>
 
