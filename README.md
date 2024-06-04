@@ -40,7 +40,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 <div>
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=walterowisk&bg_color=1a1b27&color=be91f2&line=628fdb&point=57bdad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=walterowisk&bg_color=0A0C10&color=be91f2&line=628fdb&point=57bdad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </div>
