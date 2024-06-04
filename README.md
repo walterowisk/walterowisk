@@ -55,7 +55,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 </div>
 
-  
+<br>
 
 <div  align="center"  style="display: inline_block">
 
