@@ -138,8 +138,8 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 
 ## :computer: Setup:/Laptop/CPU/System/Distro
-![DELL VOSTRO](https://img.shields.io/badge/Dell%20Vostro-007DB8.svg?style=for-the-badge&logo=Dell&logoColor=white)&nbsp;
-![INTEL](https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)&nbsp;
+![GALAXY BOOK2](https://img.shields.io/badge/Samsung_Galaxy_Book2-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white)&nbsp;
+![INTEL](https://img.shields.io/badge/Intel_Core_i5-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
 ![POP_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white)&nbsp;
 
