@@ -74,12 +74,10 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 
 ## :card_file_box: Top tools && resources by category
 
-### /codeEditor/commandLine
+### /codeEditor/IDE
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
-![HYPER](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Hyper&logoColor=white)&nbsp;
-![GNOME TERMINAL](https://img.shields.io/badge/GNOME%20Terminal-241F31.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white)&nbsp;
-![WINDOWS TERMINAL](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)&nbsp;
-![POWERSHELL](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white)&nbsp;
+![GOOGLE COLAB](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)&nbsp;
+
 
 ### /scripting/style/markup
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
