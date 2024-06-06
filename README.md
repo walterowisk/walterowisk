@@ -70,7 +70,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 # :toolbox::hammer_and_wrench:	 Tech Toolbox
 
 ## :medal_sports: Top everyday tools && resources
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,git,github,aws,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,bash,git,github,aws,wordpress)](https://skillicons.dev)
 
 ## :card_file_box: Top tools && resources by category
 
