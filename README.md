@@ -102,7 +102,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![CURL](https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&logo=curl&logoColor=white)&nbsp;
 
 ### /deploy
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)&nbsp;
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)&nbsp;
 ![CLOUDFLARE PAGES](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=for-the-badge&logo=Cloudflare-Pages&logoColor=white)&nbsp;
 ![PANTHEON](https://img.shields.io/badge/Pantheon-FFDC28.svg?style=for-the-badge&logo=Pantheon&logoColor=black)&nbsp;
