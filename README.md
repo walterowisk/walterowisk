@@ -108,7 +108,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![PANTHEON](https://img.shields.io/badge/Pantheon-FFDC28.svg?style=for-the-badge&logo=Pantheon&logoColor=black)&nbsp;
 
 ### /cloud/devOps
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)&nbsp;
 ![MICROSOFT365](https://img.shields.io/badge/Microsoft_365-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)&nbsp;
 ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
