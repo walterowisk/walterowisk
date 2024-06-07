@@ -107,7 +107,7 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![CLOUDFLARE PAGES](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=for-the-badge&logo=Cloudflare-Pages&logoColor=white)&nbsp;
 ![PANTHEON](https://img.shields.io/badge/Pantheon-FFDC28.svg?style=for-the-badge&logo=Pantheon&logoColor=black)&nbsp;
 ![ROUTE 53](https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF.svg?style=for-the-badge&logo=Amazon-Route-53&logoColor=white)&nbsp;
-![PANTHEON](https://img.shields.io/badge/Pantheon-FFDC28.svg?style=for-the-badge&logo=Pantheon&logoColor=black)&nbsp;
+![HOSTINGER](https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=Hostinger&logoColor=white)&nbsp;
 
 ### /cloud/devOps
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)&nbsp;
