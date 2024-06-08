@@ -132,6 +132,8 @@ Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar nov
 ![DRIBBBLE](https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white)&nbsp;
 ![UNSPLASH](https://img.shields.io/badge/Unsplash-000000.svg?style=for-the-badge&logo=Unsplash&logoColor=white)&nbsp;
 ![GOOGLE FONTS](https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white)&nbsp;
+![BEHANCE](https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=white)&nbsp;
+
 
 
 
