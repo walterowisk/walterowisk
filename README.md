@@ -20,7 +20,7 @@ I am eager to combine my new knowledge and skills in these areas and explore new
 <br>
 
 > [!IMPORTANT]
-> Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.
+> I will use this space to publish my studies and I want this profile to be a portrait of my evolution.
 
 <br>
 
