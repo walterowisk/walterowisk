@@ -3,11 +3,13 @@
 
   
 <samp>
-Meu nome é Walter e trabalho há mais de 15 anos como Analista de Suporte em T.I. onde já desempenhei diversas funções ligadas a administração de infraestrutura on-premise além de help desk / service desk.
-<br><br>
-Há algum tempo venho estudando para fazer transição de carreira mas sem sair do mundo da tecnologia. Sou fascinado por desenvolvimento web focado em front-end, em 2022 me encantei por Cloud/DevOps e mais recentemente venho estudando Python e SQL aplicados à data science.
-<br><br>
-Pretendo conciliar novos aprendizados nessas áreas para em breve conquistar novos mercados.
+Hi! I'm Walter, a technology enthusiast with over 15 years of experience as an IT Support Analyst. Throughout my career, I have taken on various roles, from managing on-premise infrastructure to providing help desk and service desk support.
+<br>
+Recently, I decided to take my career in a new direction while maintaining my love for technology. I am totally fascinated by web development, especially front-end. I love creating amazing websites using the WordPress/Elementor stack (check out my work on <a href="https://www.behance.net/walter-silva" target="_blank">Behance</a>!).
+<br>
+In 2022, I discovered the world of Cloud and DevOps and was captivated! Soon, I plan to embark on a journey to obtain AWS certifications.
+<br>
+I am eager to combine my new knowledge and skills in these areas and explore new opportunities in the market. Let's embark on this journey of innovation and transformation together!
 </samp>
 
 # :flower_playing_cards: Daily.dev Card
