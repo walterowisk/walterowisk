@@ -126,6 +126,8 @@ I am eager to combine my new knowledge and skills in these areas and explore new
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 ![BIGQUERY](https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white)&nbsp;
 ![GOOGLE COLAB](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)&nbsp;
+![DBEAVER](https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white)&nbsp;
+
 
 
 ### ❯ ui-ux
