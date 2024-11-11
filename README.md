@@ -72,7 +72,7 @@ I am eager to combine my new knowledge and skills in these areas and explore new
 # :toolbox::hammer_and_wrench:	 Tech Toolbox
 
 ## :medal_sports: Top everyday tools && resources
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,git,github,aws,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,git,github,figma,wordpress,aws)](https://skillicons.dev)
 
 ## :card_file_box: Top tools && resources by category
 
