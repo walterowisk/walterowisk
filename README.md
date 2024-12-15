@@ -14,7 +14,7 @@ I am eager to combine my new knowledge and skills in these areas and explore new
 
 # :flower_playing_cards: Daily.dev Card
 <div align="center" >
-<a href="https://app.daily.dev/walterowisk"><img src="https://api.daily.dev/devcards/59516b7dc0c940148610015a2a017bfc.png?r=tz2" width="280" alt="Walter J. Silva's Dev Card"/></a>
+<a href="https://app.daily.dev/walterowisk"><img src="./devcard.png" width="356" alt="Walter J. Silva's Dev Card"/></a>
 </div>       
   
 <br>
