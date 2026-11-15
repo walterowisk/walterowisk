@@ -154,13 +154,6 @@ I am eager to combine my new knowledge and skills in these areas and explore new
 ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
 ![POP_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white)&nbsp;
 
-## :books: Currently studying
-![MIKROTIK](https://img.shields.io/badge/Mikrotik-293239.svg?style=for-the-badge&logo=Mikrotik&logoColor=white)&nbsp;
-![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
-
-
-
 
 ## :telephone: Get in touch
  
