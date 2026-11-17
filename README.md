@@ -155,16 +155,6 @@ I am eager to combine my new knowledge and skills in these areas and explore new
 ![POP_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white)&nbsp;
 
 
-## :telephone: Get in touch
- 
-<div>
-
-<a  href  =  "mailto:walter.code@proton.me"><img  src="https://img.shields.io/badge/ProtonMail-6D4AFF.svg?style=for-the-badge&logo=ProtonMail&logoColor=white"  target="_blank">
-</a>
-<a  href="https://www.linkedin.com/in/walter-silva"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
-</a>
-
-</div>
 
 <br>
 
