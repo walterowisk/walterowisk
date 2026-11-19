@@ -3,13 +3,16 @@
 
   
 <samp>
-Hi! I'm Walter, a technology enthusiast with over 15 years of experience as an IT Support Analyst. Throughout my career, I have taken on various roles, from managing on-premise infrastructure to providing help desk and service desk support.
+Hey there! I'm Walter, a tech enthusiast with nearly 20 years of experience as an IT Support Analyst. Throughout my career, I've worn many hats, from managing on-premise infrastructure to providing help desk and service desk support.
 <br><br>
-Recently, I decided to take my career in a new direction while maintaining my love for technology. I am totally fascinated by web development, especially front-end. I love creating amazing websites using the WordPress/Elementor stack (check out my work on <a href="https://www.behance.net/walter-silva" target="_blank">Behance</a>!).
+Around 2011, I discovered WordPress, then Wix, and that's when my journey into web development began. Over time, I became a true WordPress enthusiast (check out my work on <a href="https://www.behance.net/walter-silva" target="_blank">Behance</a>!). And even if people try to kill it every single day, I'll keep honoring its legacy. Long live WordPress! 😄
 <br><br>
-In 2022, I discovered the world of Cloud and DevOps and was captivated! Soon, I plan to embark on a journey to obtain AWS certifications.
+Lately, I've been building things with Claude, Codex, and Antigravity. I guess there's no turning back now, and I'm planning to make the most of this new era of development.
 <br><br>
-I am eager to combine my new knowledge and skills in these areas and explore new opportunities in the market. Let's embark on this journey of innovation and transformation together!
+Feel free to drop me a message if you'd like to chat. I'm always happy to connect, share ideas, and geek out about technology!
+<br><br>
+Cheers!
+<br><br>
 </samp>
 
 # :flower_playing_cards: Daily.dev Card
