@@ -53,7 +53,7 @@ I am eager to combine my new knowledge and skills in these areas and explore new
 
 <img src="https://github-readme-stats.vercel.app/api?username=walterowisk&show_icons=true&theme=tokyonight&bg_color=0A0C10&include_all_commits=true&count_private=true&hide_border=true&border_radius="/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterowisk&layout=compact&langs_count=10&theme=tokyonight&bg_color=0A0C10&hide_border=true&border_radius="/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterowisk&layout=compact&langs_count=8&theme=tokyonight&bg_color=0A0C10&hide_border=true&border_radius="/>
 
 </div>
 
