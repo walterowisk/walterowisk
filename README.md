@@ -61,9 +61,9 @@ I am eager to combine my new knowledge and skills in these areas and explore new
 
 <div  align="center"  style="display: inline_block">
 
-<a  href="https://streak-stats.demolab.com/?user=walterowisk&theme=tokyonight&hide_border=true&date_format=M%20j[,%20Y]&background=0A0C10" target="_blank">
+<a  href="https://streak-stats.demolab.com/?user=walterowisk&theme=tokyonight&hide_border=true&date_format=M%20j[,%20Y]&background=0A0C10" target="_blank"></a>
 
-<img height="220em" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=walterowisk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0C10"/>
+<img src="https://streak-stats.demolab.com?user=walterowisk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0C10"/>
 
 </div>
 
