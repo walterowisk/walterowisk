@@ -22,8 +22,6 @@ Cheers!
   
 <br>
 
-> [!IMPORTANT]
-> I will use this space to publish my studies and I want this profile to be a portrait of my evolution.
 
 <br>
 
