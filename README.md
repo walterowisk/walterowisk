@@ -128,7 +128,6 @@ Cheers!
 
 ### ❯ ui-ux
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
-![CANVA](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![PHOTOPEA](https://img.shields.io/badge/Photopea-18A497.svg?style=for-the-badge&logo=Photopea&logoColor=white)&nbsp;
 ![DRIBBBLE](https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white)&nbsp;
 ![UNSPLASH](https://img.shields.io/badge/Unsplash-000000.svg?style=for-the-badge&logo=Unsplash&logoColor=white)&nbsp;
