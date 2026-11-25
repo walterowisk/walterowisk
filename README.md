@@ -15,7 +15,7 @@ Cheers!
 <br><br>
 </samp>
 
-# :flower_playing_cards: Snake Game Contributions Grid
+# :joystick: :snake: Snake Game Contributions Grid
 
 <div  class="snake"  align="center">
 <picture>
