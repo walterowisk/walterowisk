@@ -16,14 +16,6 @@ Cheers!
 </samp>
 
 # :flower_playing_cards: Daily.dev Card
-<div align="center" >
-<a href="https://app.daily.dev/walterowisk"><img src="./devcard.png" width="356" alt="Walter J. Silva's Dev Card"/></a>
-</div>       
-  
-<br>
-
-
-<br>
 
 <div  class="snake"  align="center">
 <picture>
